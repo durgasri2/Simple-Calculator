@@ -22,4 +22,9 @@ A simple Python calculator that performs basic arithmetic operations.
    ```
 
 4. Enter two numbers and select an operation.
+# Simple Calculator
+
+A Python program that performs basic arithmetic operations: addition, subtraction, multiplication, and division. It also handles invalid inputs and division by zero.
+
+**Language:** Python 3
 
